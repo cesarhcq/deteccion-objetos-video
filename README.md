@@ -48,7 +48,7 @@ Caso seja necessário rodar o script com algum vídeo do processo treinado sendo
 ```
 python deteccao_video.py --webcam 0 --diretorio_do_video <nome_do_arquivo.mp4>
 ```
-# TODO - treinamento e relação de treino e validação
+# TODO - treinamento e relação de treino e validação - fazer
 <!-- # Entrenamiento 
 
 Ahora, si lo que quieres es entrenar un modelo con las clases que tu quieras y no utilizar las 80 clases que vienen por default podemos entrenar nuestro propio modelo. Estos son los pasos que deberás seguir:
